@@ -1,0 +1,54 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HATTA BANK PROJECT-FF
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F PRE-FUNCTION AND AUDITORIUM
+
+## Media
+
+### Subtitle
+panorama_9D32B4DA_9227_613A_41C4_BD721E802156.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E52C544_9227_630E_4196_5E848747D582.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E52E530_9227_2306_41E1_74DA80A44D62.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E532574_9226_E30E_41E0_58DD4BC77FFD.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E54ED6D_9226_E31E_41A5_E4CADF03F83E.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E550D4B_9227_631B_41E0_E3AEF5C25511.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E550D5A_9227_233A_41E1_04EF9AF12682.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E553D5C_9227_233E_41B2_2F9BF2708C28.subtitle = 1- Pre-function tables to be provided by the client
+panorama_9E706AC0_929B_2190_41B7_7C06A3726D9C.subtitle = 1- Pre-function tables to be provided by the client
+panorama_B1740525_923A_E30F_41B4_A43E418B1CC7.subtitle = 1- Pre-function tables to be provided by the client
+
+### Title
+map_B1ED71E6_923E_E30A_41D3_0C4831E12F6D.label = FF - Key layout
+panorama_9D32B4DA_9227_613A_41C4_BD721E802156.label = Note:
+panorama_9E52C544_9227_630E_4196_5E848747D582.label = Note:
+panorama_9E52E530_9227_2306_41E1_74DA80A44D62.label = Note:
+panorama_9E532574_9226_E30E_41E0_58DD4BC77FFD.label = Note:
+panorama_9E54ED6D_9226_E31E_41A5_E4CADF03F83E.label = Note:
+panorama_9E550D4B_9227_631B_41E0_E3AEF5C25511.label = Note:
+panorama_9E550D5A_9227_233A_41E1_04EF9AF12682.label = Note:
+panorama_9E553D5C_9227_233E_41B2_2F9BF2708C28.label = Note:
+panorama_9E706AC0_929B_2190_41B7_7C06A3726D9C.label = Note:
+panorama_B1740525_923A_E30F_41B4_A43E418B1CC7.label = Note:
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc

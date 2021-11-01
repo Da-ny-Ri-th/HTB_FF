@@ -17,34 +17,34 @@ Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
 HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ### Label
-Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F PRE-FUNCTION AND AUDITORIUM
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, FF PRE-FUNCTION AND AUDITORIUM
 
 ## Media
 
 ### Subtitle
-panorama_005C4EBC_93AB_21F0_41DC_AADB2ECEAAB7.subtitle = 1- Pre-function tables to be provided by the client
-panorama_005D4C4D_93B6_E091_41C9_F8FBA911B86F.subtitle = 1- Pre-function tables to be provided by the client
-panorama_0080ED44_93B7_6097_41C8_E31BCC0C91FF.subtitle = 1- Pre-function tables to be provided by the client
-panorama_00A95F08_93B7_E09F_41C2_D5644691E3C9.subtitle = 1- Pre-function tables to be provided by the client
-panorama_00BA03C0_93B5_2790_41E1_E09BA459D7ED.subtitle = 1- Pre-function tables to be provided by the client
-panorama_0619E25A_93B5_20B0_41D7_894811CB9BFA.subtitle = 1- Pre-function tables to be provided by the client
-panorama_070EE2AB_93AA_E191_4180_CDD7379E936D.subtitle = 1- Pre-function tables to be provided by the client
-panorama_0739AF6E_93B5_2090_41C2_0A70DBE5F290.subtitle = 1- Pre-function tables to be provided by the client
-panorama_9E54ED6D_9226_E31E_41A5_E4CADF03F83E.subtitle = 1- Pre-function tables to be provided by the client
-panorama_9E706AC0_929B_2190_41B7_7C06A3726D9C.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D401CF63_D994_8D32_41E4_3958B96EDF44.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D401D46A_D995_B332_41C8_3A8B4A7EA982.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D40B5E30_D994_8F2E_41E9_A842E7DA9D1E.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D41323D0_D994_756F_41DA_F69D8F7D7EE3.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D426CE73_D994_8F13_41E0_30D98E71AF92.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D43F007A_D994_B312_41D6_0EC24147F2B1.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D4466BDA_D98C_951C_41B3_A28E822A6675.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D4CDF537_D995_BD12_41D3_A1DF9AA5E51F.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D4E70692_D995_FF12_41E3_B085BFFF0B1A.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D4FDC9D0_D994_756E_41C0_7CF76B5971EE.subtitle = 1- Pre-function tables to be provided by the client
 
 ### Title
 map_B1ED71E6_923E_E30A_41D3_0C4831E12F6D.label = FF - Key layout
-panorama_005C4EBC_93AB_21F0_41DC_AADB2ECEAAB7.label = Note:
-panorama_005D4C4D_93B6_E091_41C9_F8FBA911B86F.label = Note:
-panorama_0080ED44_93B7_6097_41C8_E31BCC0C91FF.label = Note:
-panorama_00A95F08_93B7_E09F_41C2_D5644691E3C9.label = Note:
-panorama_00BA03C0_93B5_2790_41E1_E09BA459D7ED.label = Note:
-panorama_0619E25A_93B5_20B0_41D7_894811CB9BFA.label = Note:
-panorama_070EE2AB_93AA_E191_4180_CDD7379E936D.label = Note:
-panorama_0739AF6E_93B5_2090_41C2_0A70DBE5F290.label = Note:
-panorama_9E54ED6D_9226_E31E_41A5_E4CADF03F83E.label = Note:
-panorama_9E706AC0_929B_2190_41B7_7C06A3726D9C.label = Note:
+panorama_D401CF63_D994_8D32_41E4_3958B96EDF44.label = Note:
+panorama_D401D46A_D995_B332_41C8_3A8B4A7EA982.label = Note:
+panorama_D40B5E30_D994_8F2E_41E9_A842E7DA9D1E.label = Note:
+panorama_D41323D0_D994_756F_41DA_F69D8F7D7EE3.label = Note:
+panorama_D426CE73_D994_8F13_41E0_30D98E71AF92.label = Note:
+panorama_D43F007A_D994_B312_41D6_0EC24147F2B1.label = Note:
+panorama_D4466BDA_D98C_951C_41B3_A28E822A6675.label = Note:
+panorama_D4CDF537_D995_BD12_41D3_A1DF9AA5E51F.label = Note:
+panorama_D4E70692_D995_FF12_41E3_B085BFFF0B1A.label = Note:
+panorama_D4FDC9D0_D994_756E_41C0_7CF76B5971EE.label = Note:
 
 ## Action
 

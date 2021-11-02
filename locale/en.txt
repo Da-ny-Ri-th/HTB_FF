@@ -22,29 +22,29 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, FF PRE-FU
 ## Media
 
 ### Subtitle
-panorama_D401CF63_D994_8D32_41E4_3958B96EDF44.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D401D46A_D995_B332_41C8_3A8B4A7EA982.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D40B5E30_D994_8F2E_41E9_A842E7DA9D1E.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D41323D0_D994_756F_41DA_F69D8F7D7EE3.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D426CE73_D994_8F13_41E0_30D98E71AF92.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D43F007A_D994_B312_41D6_0EC24147F2B1.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D4466BDA_D98C_951C_41B3_A28E822A6675.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D4CDF537_D995_BD12_41D3_A1DF9AA5E51F.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D4E70692_D995_FF12_41E3_B085BFFF0B1A.subtitle = 1- Pre-function tables to be provided by the client
-panorama_D4FDC9D0_D994_756E_41C0_7CF76B5971EE.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA02BB9C_DB05_DF66_41E2_FCF0821E7B2D.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA1CB709_DB04_D761_41A2_D4C9D52949D9.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA222DD2_DB04_5AE3_41E2_53B6C32EE5BA.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA232F79_DB04_F7AE_41E3_65FAABEA8A8F.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA275F35_DB04_57A1_41EA_C8E544D84DFF.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA49B405_DB04_4961_41E7_4FE7C1F092ED.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CA73296A_DB04_7BA2_41E4_BEC9C6F2F164.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CBF153C2_DB04_4EE2_41C6_1B9B12B560A9.subtitle = 1- Pre-function tables to be provided by the client
+panorama_CBFBFD35_DB05_DBA6_41E4_D0ECE4207930.subtitle = 1- Pre-function tables to be provided by the client
+panorama_D425FEBD_DAFC_36A5_41E2_E682E063A96E.subtitle = 1- Pre-function tables to be provided by the client
 
 ### Title
 map_B1ED71E6_923E_E30A_41D3_0C4831E12F6D.label = FF - Key layout
-panorama_D401CF63_D994_8D32_41E4_3958B96EDF44.label = Note:
-panorama_D401D46A_D995_B332_41C8_3A8B4A7EA982.label = Note:
-panorama_D40B5E30_D994_8F2E_41E9_A842E7DA9D1E.label = Note:
-panorama_D41323D0_D994_756F_41DA_F69D8F7D7EE3.label = Note:
-panorama_D426CE73_D994_8F13_41E0_30D98E71AF92.label = Note:
-panorama_D43F007A_D994_B312_41D6_0EC24147F2B1.label = Note:
-panorama_D4466BDA_D98C_951C_41B3_A28E822A6675.label = Note:
-panorama_D4CDF537_D995_BD12_41D3_A1DF9AA5E51F.label = Note:
-panorama_D4E70692_D995_FF12_41E3_B085BFFF0B1A.label = Note:
-panorama_D4FDC9D0_D994_756E_41C0_7CF76B5971EE.label = Note:
+panorama_CA02BB9C_DB05_DF66_41E2_FCF0821E7B2D.label = Note:
+panorama_CA1CB709_DB04_D761_41A2_D4C9D52949D9.label = Note:
+panorama_CA222DD2_DB04_5AE3_41E2_53B6C32EE5BA.label = Note:
+panorama_CA232F79_DB04_F7AE_41E3_65FAABEA8A8F.label = Note:
+panorama_CA275F35_DB04_57A1_41EA_C8E544D84DFF.label = Note:
+panorama_CA49B405_DB04_4961_41E7_4FE7C1F092ED.label = Note:
+panorama_CA73296A_DB04_7BA2_41E4_BEC9C6F2F164.label = Note:
+panorama_CBF153C2_DB04_4EE2_41C6_1B9B12B560A9.label = Note:
+panorama_CBFBFD35_DB05_DBA6_41E4_D0ECE4207930.label = Note:
+panorama_D425FEBD_DAFC_36A5_41E2_E682E063A96E.label = Note:
 
 ## Action
 
